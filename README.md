@@ -13,7 +13,7 @@
 
 4. Reboot VM
 
-## Enable Auto rezizing of VM window for Linux guest in Virt-Manager
+## Enable Auto resizing of VM window for Linux guest in Virt-Manager
 
 1. Click View
 <img width="320" height="277" alt="image" src="https://github.com/user-attachments/assets/888abba0-0519-4db7-ab63-09cdf12e43b7" />
