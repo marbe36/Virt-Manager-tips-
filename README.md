@@ -1,6 +1,6 @@
 # Virt-Manager Tips
 
-## Virt-Manager Enable 3D acceleration for Linux guest
+## Enable 3D acceleration for Linux guest in Virt-Manager
 
 1. Open Setting for VM
 <img width="198" height="797" alt="image" src="https://github.com/user-attachments/assets/9c053488-58cd-446e-b37a-6c01f17b1aa3" />
