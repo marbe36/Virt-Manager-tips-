@@ -12,3 +12,11 @@
 <img width="508" height="350" alt="image" src="https://github.com/user-attachments/assets/41fd4967-4118-489c-948f-0d869524e9dd" />
 
 4. Reboot VM
+
+## Enable Auto rezizing of VM window for Linux guest in Virt-Manager
+
+1. Click View
+<img width="320" height="277" alt="image" src="https://github.com/user-attachments/assets/888abba0-0519-4db7-ab63-09cdf12e43b7" />
+
+2. Choose Scale Display, check Always and mark Auto resize VM with window
+<img width="430" height="287" alt="image" src="https://github.com/user-attachments/assets/63dabfa7-3cef-4a28-b0d6-13eb2561c6bf" />
